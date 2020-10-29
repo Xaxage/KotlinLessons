@@ -1,3 +1,5 @@
+package StarterPack
+
 fun main(args : Array<String>){
     var arrayInt= Array<Int>(5){0}//creates array with 5 elements and all = to "0"
 

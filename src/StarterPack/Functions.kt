@@ -1,4 +1,6 @@
-fun addNumbers(x:Double=0.0,y:Double=0.0):Double{
+package StarterPack
+
+fun addNumbers(x:Double=0.0, y:Double=0.0):Double{
     //We mention return type "Double" , just like in Java.
 
     return x+y

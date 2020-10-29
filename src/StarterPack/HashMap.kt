@@ -1,3 +1,5 @@
+package StarterPack
+
 fun main(args : Array<String>){
     var listOfUsers=HashMap<Int,String>()//First we write key type , than value type. We can easily change them.
 

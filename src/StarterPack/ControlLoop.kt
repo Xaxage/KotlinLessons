@@ -1,4 +1,4 @@
-
+package StarterPack
 
 fun main(args : Array<String>){
     loop@ for(i in 1..3){

@@ -1,3 +1,5 @@
+package StarterPack
+
 fun main(args : Array<String>){
 
     var arrayList=ArrayList<String>()//We can not mention the size of the arrayList.

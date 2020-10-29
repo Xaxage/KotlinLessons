@@ -1,5 +1,5 @@
-/*
- fun sum(number1:Int , number2:Int):Int{
+package StarterPack/*
+ fun StarterPack.getSum(number1:Int , number2:Int):Int{
  return number1+number2
  }
 */
@@ -12,7 +12,7 @@ val sum = {number1:Int, number2: Int ->
 fun main() {
 
     val addNumbers =  sum(3,4)
-    println("addNumbers:  $addNumbers")
+    println("StarterPack.addNumbers:  $addNumbers")
 
 
     println("List of numbers ")
