@@ -1,6 +1,6 @@
 package OOP
 
-class Car(var type:String, val model:Int, val price:Double,
+class Car constructor(var type:String, val model:Int, val price:Double,
           val milesDrive:Int, val owner:String){//Here we instantly create constructor with those params.
 
 //The init block is always called after the primary constructor.Every time we create object, this blocks executes.
