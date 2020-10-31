@@ -28,6 +28,8 @@ class Truck:CarConstructor {//Inherits from class "CarConstructor".
     }
 }
 
+
+
 fun main(args : Array<String>) {
 
     val truck1 = Truck("BMW",2015,10000.0,105,"Muhammed ","Dump")
