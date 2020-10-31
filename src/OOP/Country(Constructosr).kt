@@ -12,6 +12,7 @@ package OOP
 
 //The same on Kotlin
 class Country(var name: String, var population: Long) {//Primary constructor
+    //I think to make primary as default (without argument) then secondary as i wish . It'll be easier
 
     constructor():this("",0){
 //Secondary constructor , in case we need an empty one.
