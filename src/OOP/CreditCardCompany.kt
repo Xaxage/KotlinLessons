@@ -25,7 +25,6 @@ class MasterCard(override val cardNumber: String) :CreditCard{
 
 }
 
-
 class Visa(override val cardNumber: String) :CreditCard{
 
     override fun score(age: Int) {
@@ -36,6 +35,10 @@ class Visa(override val cardNumber: String) :CreditCard{
             println("Positive")
         }
     }
+
+}
+
+class PayPal(client:CreditCard) : CreditCard by client{
 
 }
 
