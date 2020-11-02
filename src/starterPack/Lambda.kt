@@ -1,4 +1,4 @@
-package StarterPack/*
+package starterPack/*
  fun StarterPack.getSum(number1:Int , number2:Int):Int{
  return number1+number2
  }

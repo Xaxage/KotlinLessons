@@ -1,4 +1,4 @@
-package StarterPack
+package starterPack
 
 fun main(args : Array<String>){
     println("Pox chka 1.")

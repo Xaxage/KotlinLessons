@@ -1,4 +1,4 @@
-package StarterPack
+package starterPack
 import java.util.*
 
 fun main(args : Array<String>){

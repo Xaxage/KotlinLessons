@@ -1,4 +1,4 @@
-package StarterPack
+package starterPack
 
 //Functions polymorphism is having functions
 // with the same name and arguments quantity, but with another return type.

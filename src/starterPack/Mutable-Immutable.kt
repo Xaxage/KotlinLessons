@@ -1,4 +1,4 @@
-package StarterPack/*
+package starterPack/*
 mutable: you can update, add more
 im-mutable : you cannot update, you cannot add more
  */

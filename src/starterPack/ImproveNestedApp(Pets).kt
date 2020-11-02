@@ -1,4 +1,4 @@
-package StarterPack
+package starterPack
 
 import java.util.*
 import kotlin.collections.HashMap

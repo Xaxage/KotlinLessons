@@ -1,4 +1,4 @@
-package StarterPack
+package starterPack
 fun main(args : Array<String>){
     var title=" Welcome to New-York"
     var title1="  Esim inch.  "

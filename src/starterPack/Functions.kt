@@ -1,4 +1,4 @@
-package StarterPack
+package starterPack
 
 fun addNumbers(x:Double=0.0, y:Double=0.0):Double{
     //We mention return type "Double" , just like in Java.
