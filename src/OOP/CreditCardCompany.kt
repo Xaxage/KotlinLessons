@@ -1,5 +1,5 @@
 package OOP
-/*Interface is used to describe a structure.
+/*Interface is used  to describe a structure.
 Future classes must override interface's methods.
 We can't create an object of interface.*/
 interface CreditCard{
